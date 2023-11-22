@@ -1,0 +1,13 @@
+---
+
+ad_server:
+  hostname: TESTSERVER
+  username: luke.mosley
+  password: Cisco123!
+
+web_server:
+  html_output: /var/www/testsite/employee.html
+
+...
+
+
