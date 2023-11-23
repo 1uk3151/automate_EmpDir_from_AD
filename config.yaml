@@ -3,7 +3,7 @@
 ad_server:
   hostname: TESTSERVER
   username: luke.mosley
-  password: Cisco123!
+  password: **********
 
 web_server:
   html_output: /var/www/testsite/employee.html
